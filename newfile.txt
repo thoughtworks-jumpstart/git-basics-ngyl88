@@ -1,0 +1,2 @@
+## New file created
+The message was added to the empty file created.
