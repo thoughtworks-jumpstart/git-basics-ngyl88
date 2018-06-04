@@ -27,6 +27,8 @@ Other useful commands to see what is going on the git repository:
 
 What is the difference between `add`, `commit`, and `push`?
 
-    Add:
-    Commit:
-    Push:
+    Add     :   From local folder to staging area (local machine)
+    Commit  :   From staging area to local repo
+    Push    :   From local repo to Git repo
+
+Some more changes:
