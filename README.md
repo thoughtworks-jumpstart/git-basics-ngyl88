@@ -26,3 +26,7 @@ Other useful commands to see what is going on the git repository:
 ## Discuss
 
 What is the difference between `add`, `commit`, and `push`?
+
+    Add:
+    Commit:
+    Push:
