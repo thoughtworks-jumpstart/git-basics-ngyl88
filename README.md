@@ -32,3 +32,4 @@ What is the difference between `add`, `commit`, and `push`?
     Push    :   From local repo to Git repo
 
 Some more changes:
+    These few lines are added after created newfile.
