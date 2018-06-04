@@ -1,2 +1,4 @@
 ## New file created
 The message was added to the empty file created.
+
+This message was added after commit of the first line.
